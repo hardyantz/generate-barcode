@@ -1,0 +1,10 @@
+hash: 946170c70be9e57d2ee79ab77094952c34865b78c63c615899eae10a5aac49f1
+updated: 2017-07-27T15:38:17.203749655+07:00
+imports:
+- name: github.com/boombuler/barcode
+  version: 56ef0af91246fb5279df4f87bc3daf1bf7cb9e89
+  subpackages:
+  - code39
+  - qr
+  - utils
+testImports: []

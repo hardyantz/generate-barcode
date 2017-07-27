@@ -1,0 +1,6 @@
+package: github.com/hardyantz/exp
+import:
+- package: github.com/boombuler/barcode
+  subpackages:
+  - code39
+  - qr
