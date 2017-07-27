@@ -20,7 +20,7 @@ type Barcode struct {
 }
 
 // StoragePath save barcode file to path
-const StoragePath = "/data"
+const StoragePath = "/data/"
 
 // QR generate barcode type QR
 func (bc *Barcode) QR() (f string, err error) {
